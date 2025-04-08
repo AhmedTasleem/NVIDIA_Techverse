@@ -43,7 +43,7 @@ Bring your project to life! In this round, you’ll demonstrate the working prot
 
 **Note :**
 - You can choose any project from the official community project links
-- If you are using a unique idea for the project and it is solving the real world problem, those projects will get 20% extra marks  
+- If you are using a unique idea for the project and it is solving the real world problem, those projects will get 20% extra marks
 
 **Project Demonstration**
 - **Objective**: Demonstrate a working prototype of your project using the Jetson Nano.
@@ -52,14 +52,16 @@ Bring your project to life! In this round, you’ll demonstrate the working prot
   - **Innovation**: Is the project creative and innovative? Does it push the boundaries of what the Jetson Nano can do?
   - **Presentation**: How well did you demonstrate and explain your project? Is the presentation clear and engaging?
   - **Use of Jetson Nano**: How effectively did you use the Jetson Nano to execute the project?
-
 ---
+
+## **Hardware Configuration -- Jetson Nano**
 
 
 ## **Resources and Guidelines**
-To help you succeed in each round, we’ve compiled a set of resources, guidelines, and important links. Make sure to utilize these to their fullest potential!
-
+- To help you succeed in each round, we’ve compiled a set of resources, guidelines, and important links. Make sure to utilize these to their fullest potential!
+- If you are a beginner and don't know which project to choose then click on the first link below to go through the basic AI projects that can be run on Jetson Nano Developer Kit
 ### **Important Links**
+- **[Basic AI Projects For Jetson Nano](https://github.com/dusty-nv/jetson-inference)** - Refer this link For basic AI projects
 - **[Jetson Nano Projects Page](https://developer.nvidia.com/embedded/community/jetson-projects)** - Refer to this page if you are unable to find an idea for a project
 - **[Jetson Nano Official Documentation](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)** – The essential guide to getting started with the Jetson Nano. Everything from hardware setup to software installation is covered.
 - **[Jetson Community Forum](https://devtalk.nvidia.com/)** – Join the vibrant community of developers and enthusiasts. Discuss ideas, get troubleshooting help, and share your progress.
